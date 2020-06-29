@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "node ./server",
     "build": "next build",
-    "start": "cross-env process.env.NODE_ENV=production next server"
+    "start": "cross-env process.env.NODE_ENV=production node server"
   },
   "author": "",
   "license": "ISC",
